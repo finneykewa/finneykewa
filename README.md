@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @finneykewa
 - 👀 I’m interested in the intersection between public health, information technology and social justice. 
 - 🌱 I’m currently learning how to build dashboards. 
-- 💞️ I’m looking to collaborate on building an AI medical assistant that detects stress levels in individuals 
+- 💞️ I’m looking to collaborate on building an AI medical assistant that detects stress levels in on the individual level. 
 - 📫 How to reach me on GitHub. 
 
 <!---
